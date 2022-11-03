@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>UTS APLIKASI WEB-PHP Test</title>
+  </head>
+  <body>
+    <?php
+      echo "<h1>UTS Aplikasi WEB</h1>";
+
+      echo "DANI MULYO FEBRIANTO <br>";
+      echo "201552019152936 <br>";
+      echo "Teknik Informatika Reg B";
+    ?> 
+
+  </body>
+</html>
